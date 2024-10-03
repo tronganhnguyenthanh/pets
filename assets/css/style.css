@@ -1,0 +1,11 @@
+.form-control:focus{
+  box-shadow:none !important;
+}
+
+.form-control{
+  width:7%;
+}
+
+.custom-link{
+  text-decoration:none !important;
+}
